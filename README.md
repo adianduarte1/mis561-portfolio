@@ -14,3 +14,15 @@ Data Visualization in Power BI, Completed 10/08/2026, [A link to my published Ta
 Card Portfolio Review – Contactless Readiness, Which non-contactless cards should the bank replace early, how many belong in the batch, and what will it cost? [A link to my published Tableau workbook](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17923903795600/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were to do this again, I would spend more time exploring potential visualization types for my explanatory dashboard.
 
 Card Growth Analysis – Wildcat Rewards Offer, Which customer group should receive the Wildcat Rewards pilot mailing based on its concentration of eligible customers, and how many qualify at the approved FICO cutoff of 670?, [A link to my published Tableau workbook](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930807274500/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were to do this again, I would try creating two different visualizations instead of the single visual we traditionally use, since we were given the option to include more than one on our explanatory dashboard.
+
+*Nov 2, 2026 · Data Storytelling with Adobe Express** 
+
+Work sample for Rene Castillo, Director of Card Operations at Bear Down Bank: Replace 440 non-contactless cards expiring beyond six months. 
+
+[Work sample (PDF)]([https://github.com/...](https://github.com/adianduarte1/mis561-portfolio/blob/main/adobe/duarte-data-storytelling.pdf)) · [Adobe Express]([https://...](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:43cede3c-9a43-5a88-897b-d0ab56726f24?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)) 
+
+Design choice: I used a monthly replacement-cost bar chart with the early replacement batch highlighted, rather than the customer-location map, because Renee needs to see which cards should be replaced early and what the batch will cost. I removed the recommendation and cost annotation from inside the chart and moved them into the headline and callouts, so she can immediately identify the 440-card batch and its estimated $3,520 cost.
+
+Training completed: November 2, 2026 
+
+AI Acknowledgement: OpenAI. (2026). ChatGPT (GPT – 6.1 Sol) [Large Language Model]. Retrieved November 2, 2026. https://chat.openai.com/chat. Prompted AI to help create my firm’s identity and branding and provide guidance on the final infographic’s layout and placement of individual elements.
