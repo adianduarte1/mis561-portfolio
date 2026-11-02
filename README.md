@@ -20,7 +20,7 @@ Card Growth Analysis – Wildcat Rewards Offer, Which customer group should rece
 
 Work sample for Rene Castillo, Director of Card Operations at Bear Down Bank: Replace 440 non-contactless cards expiring beyond six months. 
 
-[Work sample (PDF)]([https://github.com/...](https://github.com/adianduarte1/mis561-portfolio/blob/main/adobe/duarte-data-storytelling.pdf)) · [Adobe Express]((https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:43cede3c-9a43-5a88-897b-d0ab56726f24?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)) 
+[Work sample (PDF)](https://github.com/adianduarte1/mis561-portfolio/blob/main/adobe/duarte-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:43cede3c-9a43-5a88-897b-d0ab56726f24?accept=true&invite=true&promoid=Z2G1FQKR&mv=other) 
 
 Design choice: I used a monthly replacement-cost bar chart with the early replacement batch highlighted, rather than the customer-location map, because Renee needs to see which cards should be replaced early and what the batch will cost. I removed the recommendation and cost annotation from inside the chart and moved them into the headline and callouts, so she can immediately identify the 440-card batch and its estimated $3,520 cost.
 
