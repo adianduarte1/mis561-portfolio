@@ -27,3 +27,15 @@ Design choice: I used a monthly replacement-cost bar chart with the early replac
 Training completed: November 2, 2026 
 
 AI Acknowledgement: OpenAI. (2026). ChatGPT (GPT – 6.1 Sol) [Large Language Model]. Retrieved November 2, 2026. https://chat.openai.com/chat. Prompted AI to help create my firm’s identity and branding and provide guidance on the final infographic’s layout and placement of individual elements.
+
+
+**November 16, 2026 · Product Pitch with Generative AI in Adobe Express** 
+Pitch to Renee Castillo, Director of Card Operations, Bear Down Bank: Approve a four-week review to determine whether replacing cards early would bring tap-to-pay to customers sooner at a cost the bank can justify
+
+[Pitch deck (PDF)](https://github.com/adianduarte1/mis561-portfolio/blob/main/adobe/Duarte-product-pitch..pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:ea4c6be9-7229-4554-aec5-0c1e64e58590?accept=true&invite=true&promoid=Z2G1FQKR&mv=other) 
+
+Toughest objection: "Why hire Monsoon if my team can do this in-house?" Slide 5 answers it: Monsoon verifies card eligibility, compares replacement options, and delivers a recommendation in four weeks. Card Operations supplies the inventory and confirms the per-card cost, so the team can stay focused on scheduled renewals while Monsoon does the analysis. 
+
+AI Acknowledgement: OpenAI. (2026). ChatGPT (GPT – 6.1 Sol) [Large Language Model]. Retrieved November 16, 2026. https://chat.openai.com/chat. Prompted AI to create all images and backgrounds within the deck as well prompted it to play my executive and give my the toughest objection as well as imporve profesionalism and grammar.
+
+Training completed: November 16, 2026
