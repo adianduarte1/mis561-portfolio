@@ -40,3 +40,15 @@ Toughest objection: "Why hire Monsoon if my team can do this in-house?" Slide 5 
 AI Acknowledgement: OpenAI. (2026). ChatGPT (GPT – 6.1 Sol) [Large Language Model]. Retrieved November 16, 2026. https://chat.openai.com/chat. Prompted AI to create all images and backgrounds within the deck as well prompted it to play my executive and give my the toughest objection as well as imporve profesionalism and grammar.
 
 Training completed: November 16, 2026
+
+
+**November 23, 2026 · Brand Standard Application in Tableau** 
+
+Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year’s ad pitch? 
+
+[Tableau workbook](https://public.tableau.com/app/profile/adian.duarte/viz/DataPlusMovies2000-2023_17954877050340/DataMoviesIMDBDashboard#1) 
+
+One thing I’d change is to choose my colors from the IMDb brand toolkit before building my visuals. Choosing colors afterward limited my options for keeping the dashboard clean and consistent.  
+
+AI Acknowledgement: OpenAI. (2026). ChatGPT (GPT – 6.2 Sol) [Large Language Model]. Retrieved November 23, 2026. https://chat.openai.com/chat. Prompted AI to improve the grammar and tone of my writing and to brainstorm chart types for the explanatory visual.
+
